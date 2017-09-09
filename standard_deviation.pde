@@ -2,7 +2,7 @@ int Nadine = 21;
 int Anna = 21;
 int Jasper = 27;
 int Menno = 25;
-
+// I am a comment
 float average = (Nadine+Anna+Jasper+Menno)/4;
 
 println(average);
